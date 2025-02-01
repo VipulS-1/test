@@ -21,15 +21,10 @@
     "@angular/platform-browser-dynamic": "~13.2.0",
     "@angular/router": "~13.2.0",
     "@types/file-saver": "^2.0.7",
-    "angular-highcharts": "^13.0.1",
     "bootstrap": "^4.6.2",
-    "country-state-city": "^3.1.2",
-    "file-saver": "^2.0.5",
-    "highcharts": "^10.3.3",
     "jquery": "^3.6.3",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
-    "xlsx": "^0.18.5",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
